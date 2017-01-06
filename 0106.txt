@@ -1,5 +1,8 @@
 What's your personality type? Alice and Neil discuss where they lie on the introvert/extrovert spectrum. If you are an introvert you're in good company; Barack Obama, JK Rowling and many more eminent and thoughtful people are introverts.
 
+eminent 著名的
+thoughtful 为人着想的、深思的
+
 This week's question
 
 Who first used the term 'extrovert'? Was it…
@@ -14,25 +17,25 @@ You'll hear the answer at the end of the programme.
 
 Vocabulary
 
-ambivert
+ambivert 双向性格
 a mixture of introvert and extrovert
 
-reflective
+reflective 沉思的
 thoughtful
 
-inner resources
-capabilities of the mind
+inner resources 内在的能力
+capabilities of the mind  精神的能力
 
 recharge their batteries
-regain their strength and energy
+regain their strength and energy 恢复力量和能量
 
-drained
+drained 抽干
 very tired 
 
-intimidate
-overpower  
+intimidate  威胁
+overpower  打败
 
-thought through
+thought through 仔细考虑
 consider carefully
 
 Transcript
@@ -50,12 +53,14 @@ So Alice how did you spend Saturday night?
 
 Alice
 Curled up on the sofa with a good book. You?
+Curled up 蜷缩
 
 Neil
 I went out on the town. Met some friends, had a few drinks, then went on to a party.
 
 Alice
 Well that illustrates the difference between us – you're an extrovert. And I'm… not. And where we are on the spectrum between introvert and extrovert is the subject of today's show.
+illustrates 说明
 
 Neil
 So would you call yourself an introvert, Alice?
@@ -69,6 +74,9 @@ Well, whichever you are, Alice, staying in on your own on a Saturday night is pr
 Alice
 Not to me. And you shouldn't be so judgemental, Neil. You're reflecting the general view that people seem to have these days, that being an introvert is somehow less valuable than being an extrovert. Introverts have many valuable qualities. They're reflective – that means thoughtful – and have inner resources. In other words, they don't rely on other people to enjoy themselves.
 
+qualities 品质
+rely on 依赖
+
 Neil
 OK, well if you're feeling reflective at the moment, how about answering today's quiz question?
 
@@ -80,6 +88,8 @@ Can you tell me: who first used the term 'extrovert'? Was it…
 a) Sigmund Freud?
 b) Friedrich Nietzsche?
 Or c) Carl Jung?
+
+卡尔荣格  瑞士心理学家
 
 Alice
 I think the answer is c) Carl Jung.
@@ -109,8 +119,15 @@ So introverts create their energy internally – from within themselves – and 
 Alice
 Exactly. But in some situations, for example at school or in the workplace, things can be made suitable for – extroverts. Extroverts typically love being with others – in a big class or an open plan office – where there's a lot going on. They enjoy the external stimulation. But introverts can find these big, noisy environments uncomfortable.
 
+where there's a lot going on 有很多事情的地方 
+
+
 Neil
 I can see that. And these days, people are wild about group work and brainstorming – job ads frequently ask if you are a people person, a team player … and so on.
+
+wild about 热衷于
+frequently 经常地
+people person 人缘好的人
 
 Alice
 That's right. Introverts like to work alone or in small groups and need a quieter space to perform well. Let's listen now to Dr Peter Aloka, a researcher and psychologist in Kenya. He's been working with introvert teenage mothers in Bondo who are returning to school after having their babies. And schools are being asked to develop new strategies to support their learning.
@@ -125,6 +142,8 @@ Dr Peter Aloka is talking about some very clever pairing there. If you put two i
 Alice
 So the idea is that with fewer people – in a small group or a pair – the introvert will have enough time and space to express their ideas. And because their ideas have been thought through – or carefully considered – , their contribution is likely to be worth waiting for. So… Think. Pair. Share.
 
+express 表现
+
 Neil
 Hmm. I like that. OK, so I think it's time to share the answer to today's quiz question. I asked: who first used the term ‘extrovert'? Was it…
 a) Sigmund Freud?
@@ -136,6 +155,8 @@ I said… Carl Jung.
 
 Neil
 And you were… right, Alice. So thinking things through really works! ‘Introvert' and ‘extrovert' are the two basic personality types according to the theories of the 20th-century Swiss psychiatrist Carl Jung. According to these theories, an introvert is a person whose interest lies with their own feelings and thoughts, in contrast to an extrovert, whose interest lies with other people and the outside world.
+
+in contrast to 相比之下
 
 Alice
 OK. Now, let's hear the words we learned today:
